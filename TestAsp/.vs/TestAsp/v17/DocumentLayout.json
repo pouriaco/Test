@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC-Kosar\\Desktop\\asp\\Test\\TestAsp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CE1B3-B4D9-4B78-9E4B-D5072AF6D4C1}|TestAsp\\TestAsp.csproj|c:\\users\\pc-kosar\\desktop\\asp\\test\\testasp\\testasp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CE1B3-B4D9-4B78-9E4B-D5072AF6D4C1}|TestAsp\\TestAsp.csproj|solutionrelative:testasp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Kosar\\Desktop\\asp\\Test\\TestAsp\\TestAsp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TestAsp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PC-Kosar\\Desktop\\asp\\Test\\TestAsp\\TestAsp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TestAsp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:40:15.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
